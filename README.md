@@ -1,6 +1,6 @@
 # Business-Insights-360
 
-## Problem Statement:
+## Project Overview:
 
 AtliQ, a successful company in the Goods market, faced significant losses when opening a new store in Latin America. The reason? Their decisions were based solely on surveys and gut feelings. 
 To turn things around, AtliQ is teaming up with skilled Data Analysts and embracing Power BI for a thorough analysis. The aim is to gather practical insights,
