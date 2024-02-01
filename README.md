@@ -18,11 +18,11 @@ make smarter decisions, and outshine competitors in the market.
 
 ## Crafted Dashboards:
 
-- Finance View
-- Sales View
-- Marketing View
-- Supply Chain View
-- Executive View
+- Finance View --> Thorough analysis of financial data, encompassing revenue, expenses, and profit margins.
+- Sales View --> In-depth analysis of sales trends, patterns, and performance metrics.
+- Marketing View --> Understanding market trends influencing sales and financial outcomes.
+- Supply Chain View --> Predictive analytics to anticipate future sales and financial scenarios.
+- Executive View --> Quick insights for leaders to make smart decisions and plan strategically
 
 ## Key Learnings:
 
@@ -40,7 +40,7 @@ make smarter decisions, and outshine competitors in the market.
 - Dynamic titles based on applied filters
 - Data validation, Conditional formatting, KPI indicators
 - Tooltip implementation in visuals
-- Atomatic data refresh using personal gateway
+- Automatic data refresh using personal gateway
 - Report Optimization
 - Dashboard effects and designs
 
